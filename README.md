@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mukhammad Syaifudin Adn</h1>
-<h3 align="center">I'm a student at SMK TELKOM MALANG</h3>
+<h3 align="center">I'm a student at Politeknik Negeri Malang</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syaifudinnn&label=Profile%20views&color=0e75b6&style=flat" alt="syaifudinnn" /> </p>
 
