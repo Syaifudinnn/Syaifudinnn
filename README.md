@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mukhammadsadn@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mukhammad-adn-09292624a/](https://www.linkedin.com/in/mukhammad-adn-09292624a/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/mukhammadadn/](https://www.linkedin.com/in/mukhammadadn/)
 
 - ⚡ Fun fact **sometimes I think I'm good at this but sometimes actually no**
 
